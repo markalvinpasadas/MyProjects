@@ -1,0 +1,48 @@
+html {
+  font-size: 18px;
+  font-family: Andale Mono, monospace;
+}
+h1 {
+   text-align: center;
+   font-size: 65px;  
+}
+body {
+  font-size: 20px;
+  text-align: center;
+}
+img {
+  border-radius: 10px;
+  height: auto;
+  max-width: 400px;
+  
+}
+#img-div {
+  background: white;
+}
+#img-caption {
+  font-size: 13px;
+}
+h2 {
+  text-align: center;
+  font-size: 20px;
+  margin: 0;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6; 
+}
+li {
+  font-size: 18px;
+  margin: 0 auto;
+}
+#date {
+  font-style: italic;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
